@@ -1,18 +1,33 @@
 # Customer Support Chatbot
 
 ## Description
-This is a simple rule-based customer support chatbot built using Python.
+A simple rule-based customer support chatbot built using Python. It interacts with users and answers common customer queries.
 
 ## Features
 - Greets the user
-- Answers product-related queries
-- Provides technical support information
-- Explains return policy
-- Handles unknown queries
-- Ends conversation using exit commands
+- Product information
+- Technical support
+- Return policy information
+- Unknown query handling
+- Exit commands
 
 ## Technologies Used
 - Python
 - Regular Expressions (re)
 - Random Module
 - Jupyter Notebook
+
+## How to Run
+
+1. Install Python.
+2. Open the notebook in Jupyter Notebook.
+3. Run all cells.
+4. Start chatting with the bot.
+
+## Sample Queries
+
+- product
+- technical support
+- return policy
+- help
+- bye
